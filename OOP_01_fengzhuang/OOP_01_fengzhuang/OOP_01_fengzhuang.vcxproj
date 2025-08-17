@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6b05bfd9-001f-4122-80be-ae85ea2ce4da}</ProjectGuid>
-    <RootNamespace>Base06pointer</RootNamespace>
+    <ProjectGuid>{3341d05a-e5a0-455f-a66e-fcf928f8dbd5}</ProjectGuid>
+    <RootNamespace>OOP01fengzhuang</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,6 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main1.cpp" />
+    <ClCompile Include="main0.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
