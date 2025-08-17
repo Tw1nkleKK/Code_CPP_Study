@@ -2,6 +2,7 @@
 using namespace std;
 
 int add(int, int); // 函数声明
+int sum(int); // 函数声明
 
 /*
 * 
